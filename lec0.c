@@ -1,6 +1,7 @@
 #include <stdio.h>
 
 //ΕΙΣΑΓΩΓΗ ΣΤΟΝ ΠΡΟΓΡΑΜΜΑΤΙΣΜΟ (Α' ΕΞΑΜΗΝΟ) 1
+//BEGGINING OF PROGRAMMING - ΑΡΧΗ ΤΟΥ ΚΟΟΥΝΤΙΝΓΚ
 
 
 int main(){ //MAIN FUNCTION OF THE PROGRAM - ΕΙΝΑΙ ΑΥΤΟΝΟΜΗ ΚΑΙ ΠΑΙΖΕΙ ΣΗΜΑΝΤΙΚΟ ΡΟΛΟ ΓΙΑ ΤΗΝ ΕΠΙΤΕΥΞΗ ΤΟΥ ΠΡΟΓΡΑΜΜΑΤΟΣ (NOTE)
