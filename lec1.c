@@ -1,5 +1,5 @@
 #include <stdio.h>
-#include <stdiNT.h> //A (NOTE)
+#include <stdint.h> //A (NOTE)
 
 
 
