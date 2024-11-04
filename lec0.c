@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-//ΕΙΣΑΓΩΓΗ ΣΤΟΝ ΠΡΟΓΡΑΜΜΑΤΙΣΜΟ (Α' ΕΞΑΜΗΝΟ) 1
+
 //BEGGINING OF PROGRAMMING - ΑΡΧΗ ΤΟΥ ΚΟΟΥΝΤΙΝΓΚ
 
 
